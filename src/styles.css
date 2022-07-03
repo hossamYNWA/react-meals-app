@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+body {
+  background-color: rgb(8, 6, 6);
+}
